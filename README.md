@@ -18,7 +18,7 @@ Projenin odak noktası:
 
 ## 📷 Ekran Görüntüsü
 
-![Preview](./preview.jpg) <!-- Dosya adını kendi görselinle değiştirmen gerekebilir -->
+![Preview](resim_2025-05-23_161429430.png)
 
 ## 💬 Notlar
 
